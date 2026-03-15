@@ -38,7 +38,10 @@ export default function App() {
 
   useEffect(() => {
     if (query && movies.length === 0 && !isLoading) {
-      toast("No movies found for your request.");
+      toast("No movies found for your request.", {
+        position: "top-center",
+        style: { backgroundColor: "	#FFDEAD" },
+      });
     }
   }, [movies, query, isLoading]);
 
