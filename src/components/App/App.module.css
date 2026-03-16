@@ -5,7 +5,6 @@
   margin: 16px 0;
   list-style: none;
   padding: 0;
-  color: #262626;
 }
 
 .pagination li {
@@ -22,6 +21,7 @@
   justify-content: center;
   width: 100%;
   height: 100%;
+  color: #4A4A4A;
 }
 
 .active {
