@@ -24,11 +24,8 @@
   color: #4A4A4A;
 }
 
-.pagination a.active {
-  color: white;
-}
-
 .active {
   background-color: #0a66c2;
   font-weight: bold;
+  color: white;
 }
