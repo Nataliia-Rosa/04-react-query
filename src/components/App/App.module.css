@@ -29,3 +29,7 @@
   font-weight: bold;
   color: white;
 }
+
+.active a {
+  color: white;
+}
