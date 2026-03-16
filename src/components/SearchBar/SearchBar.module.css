@@ -3,7 +3,7 @@
   background-color: #ffffff;
   border-bottom: 1px solid #e0e0e0;
   margin-bottom: 20px;
-  width: 1440px;
+  min-width: 100vh;
 }
 
 .container {
